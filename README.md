@@ -1,8 +1,10 @@
 Hello! Welcome to IcySNKRS Nike commands!
 
 Installation:
+
 1. Install node.js
 2. npm install -g axios
+3. npm install discord.js
 
 ⭐ Steps:
 1. Don't forget to fill info in /discord-bot/.env.
