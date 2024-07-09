@@ -2,10 +2,11 @@ Hello! Welcome to IcySNKRS Nike commands!
 
 ⭐ Steps:
 1. Don't forget to fill info in /discord-bot/.env.
+
 ![image](https://github.com/icysnkrs/Nike-StockChecker-PreCheckout/assets/137155969/e197212f-1fdf-493f-b945-0219f44db107)
-3. Also fill there in your needs.
+2. Also fill there in your needs.
 ![image](https://github.com/icysnkrs/Nike-StockChecker-PreCheckout/assets/137155969/a6f09ed1-b3c8-4aad-b169-e0a4db5e035b)
-4. I recommend using proxies in case you have, but is not mandatory!
+3. I recommend using proxies in case you have, but is not mandatory!
 - fill proxy data as you want, if you dont want to use proxies I think code needs some minor adjustments.
 ![image](https://github.com/icysnkrs/Nike-StockChecker-PreCheckout/assets/137155969/efbc7e8d-041b-447a-bf76-a304c635c935)
 
