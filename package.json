@@ -2,7 +2,7 @@
   "name": "discordbot",
   "version": "1.0.0",
   "description": "",
-  "main": "src/index.js",
+  "main": "./main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -14,7 +14,6 @@
     "discord.js": "^14.14.1",
     "dotenv": "^16.4.5",
     "fs": "^0.0.1-security",
-    "jquery": "^3.7.1",
-    "puppeteer": "^22.6.3"
+    "jquery": "^3.7.1"
   }
 }
