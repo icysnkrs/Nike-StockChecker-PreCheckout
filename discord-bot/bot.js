@@ -6,7 +6,7 @@ require("dotenv").config();
 const { REST, Routes, Client, IntentsBitField, EmbedBuilder} = require("discord.js");
 let embeds = new EmbedBuilder();
 const commandsChannelId = ""; // Add your channel ID here where to use the bot
-const releaseChannelId = ""; // same here
+const releaseChannelId = ""; // same here BUT this will be used only by ownerID!
 const ownerId = ""; // this is only if you want to use it for yourself in a server, other people won't have access.
 
 const client = new Client({
