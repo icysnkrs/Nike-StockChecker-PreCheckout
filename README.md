@@ -11,15 +11,10 @@ Hello! Welcome to IcySNKRS Nike commands!
 
 ⭐ After getting the bot on your servers you can use 4 commands:
 
-- /nike [SKU] [REGION]
-![image](https://github.com/icysnkrs/Nike-StockChecker-PreCheckout/assets/137155969/fa997d86-e64e-469e-abde-db2bbd435f57)
-- /gslinks [SKU] [REGION]
-![image](https://github.com/icysnkrs/Nike-StockChecker-PreCheckout/assets/137155969/f1747c45-0fcd-4196-b459-4f7b1e697505)
-- /eulinks [SKU] [REGION]
-![image](https://github.com/icysnkrs/Nike-StockChecker-PreCheckout/assets/137155969/3c0e1dec-97d4-4711-8c83-3cdc33bdc341)
-- /snkrs [REGION]
-![image](https://github.com/icysnkrs/Nike-StockChecker-PreCheckout/assets/137155969/a0799d7b-af45-4ba0-855d-dc8728629af2)
-
+- /nike [SKU] [REGION]![image](https://github.com/icysnkrs/Nike-StockChecker-PreCheckout/assets/137155969/fa997d86-e64e-469e-abde-db2bbd435f57)
+- /gslinks [SKU] [REGION]![image](https://github.com/icysnkrs/Nike-StockChecker-PreCheckout/assets/137155969/f1747c45-0fcd-4196-b459-4f7b1e697505)
+- /eulinks [SKU] [REGION]![image](https://github.com/icysnkrs/Nike-StockChecker-PreCheckout/assets/137155969/3c0e1dec-97d4-4711-8c83-3cdc33bdc341)
+- /snkrs [REGION]![image](https://github.com/icysnkrs/Nike-StockChecker-PreCheckout/assets/137155969/a0799d7b-af45-4ba0-855d-dc8728629af2)
 📖 More Informations: 
 - in case you want to use this 24/7 opened I recommend using pm2 (https://www.npmjs.com/package/pm2)
 
