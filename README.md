@@ -1,4 +1,4 @@
-Hello! Welcom to IcySNKRS Nike commands!
+Hello! Welcome to IcySNKRS Nike commands!
 
 ⭐ Steps:
 1. Don't forget to fill info in /discord-bot/.env
