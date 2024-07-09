@@ -1,5 +1,9 @@
 Hello! Welcome to IcySNKRS Nike commands!
 
+Installation:
+1. Install node.js
+2. npm install -g axios
+
 ⭐ Steps:
 1. Don't forget to fill info in /discord-bot/.env.
 - ![image](https://github.com/icysnkrs/Nike-StockChecker-PreCheckout/assets/137155969/e197212f-1fdf-493f-b945-0219f44db107)
